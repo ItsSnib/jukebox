@@ -1,0 +1,10 @@
+{
+  "music_disc.parting_glass": {
+    "sounds": [
+      {
+        "name": "customjukebox:parting_glass",
+        "stream": true
+      }
+    ]
+  }
+}
